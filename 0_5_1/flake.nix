@@ -40,7 +40,7 @@
   inputs."contractabi".owner = "nim-nix-pkgs";
   inputs."contractabi".ref   = "master";
   inputs."contractabi".repo  = "contractabi";
-  inputs."contractabi".dir   = "0_4_4";
+  inputs."contractabi".dir   = "0_4_5";
   inputs."contractabi".type  = "github";
   inputs."contractabi".inputs.nixpkgs.follows = "nixpkgs";
   inputs."contractabi".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
